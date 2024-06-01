@@ -19,4 +19,5 @@ Paper numbers are marked with Arabic numerals (such as "1."). The same number ma
 1.Version 2 found the error in version 1, and used the year-on-year sequence in 2 to mainly implement the market factor, use the front ex-rights closing data, the chart is more complete, and the style factor and the combined two-factor model are deleted
    
 1.version2发现version1的错误，在2中运用了同比序列先主要实现市场因子，运用front除权收盘数据，图表更加完善，删除格因子和组合的双因子模型
-
+## link论文链接
+1.http//:baidu.com
